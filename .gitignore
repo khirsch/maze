@@ -1,0 +1,16 @@
+node_modules/
+dist/
+
+# Local environment configuration
+.env*
+!.env.example
+*.local
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+pnpm-debug.log*
+
+# macOS
+.DS_Store
